@@ -11,8 +11,11 @@ My name's Alex and I am a fullstack developer based in Stockholm, Sweden. I depl
 <img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Rails" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
   <img align="left" alt="NodeJS" width="25px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> <br /> <br />
-React Native  
-Cypress | Jest with Enzyme | RSpec  
+  
+JavaScript | Ruby <br />
+React | React Native <br />
+Ruby on Rails | NodeJS <br />
+Cypress | Jest with Enzyme | RSpec <br />
 CI | Test Coverage Metrics  
 CD  
 
