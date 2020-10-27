@@ -12,12 +12,12 @@ My name's Alex and I am a fullstack developer based in Stockholm, Sweden. I depl
 <img align="left" alt="Rails" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
   <img align="left" alt="NodeJS" width="25px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> <br /> <br />
   
-JavaScript | Ruby <br />
-React | React Native <br /> 
+React | React Native | Redux  <br /> 
 Ruby on Rails | NodeJS <br />
 Cypress | Jest with Enzyme | RSpec <br />
 CI | Test Coverage Metrics  
 CD  
+JavaScript | Ruby
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-bellamy&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bellamy&layout=compact&theme=tokyonight&langs_count=6)
