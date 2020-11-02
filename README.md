@@ -19,9 +19,10 @@ Cypress | Jest with Enzyme | RSpec <br />
 CI | Test Coverage Metrics | CD <br />
 JavaScript | Ruby
 
-## My Github stats:
+## My github stats
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-bellamy&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bellamy&layout=compact&theme=tokyonight&langs_count=6)
 
 ## Get in touch
 [![Linkedin: AlexBellamy](https://img.shields.io/badge/-AlexBellamy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://alex-bellamy-0237441b4/)](https://www.linkedin.com/in/alex-bellamy-0237441b4/)
+[![Gmail: alexanderlbellamy](https://img.shields.io/badge/-alexanderlbellamy@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=alexanderlbellamy@gmail.com)
