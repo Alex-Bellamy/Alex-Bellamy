@@ -19,7 +19,7 @@ Cypress | Jest with Enzyme | RSpec <br />
 CI | Test Coverage Metrics | CD <br />
 JavaScript | Ruby
 
-## My github stats
+## My GitHub stats
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-bellamy&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bellamy&layout=compact&theme=tokyonight&langs_count=6)
 
